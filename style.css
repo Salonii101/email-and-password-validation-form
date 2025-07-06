@@ -54,7 +54,6 @@ body {
   max-width: 400px;
   width: 100%;
   backdrop-filter: blur(8px);
-  opacity: 50% ;
 }
 
 .logo {
